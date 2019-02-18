@@ -2,7 +2,9 @@
 
 ## Installation
 
-- Install nodejs (LTS version)
+Instructions for Windows
+
+- Install nodejs (e.g. LTS version)
 - Install git for windows
 - Clone repository from github
 - Go into cloned folder
